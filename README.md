@@ -1,5 +1,5 @@
 <main>
-  <img src="/images/banner.jpg" alt="rifat banner"/>
+  <img src="banner.jpg" alt="rifat banner"/>
 </main>
 <!-- Banner End -->
 
